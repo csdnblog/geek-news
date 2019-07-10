@@ -1,7 +1,7 @@
 # geek-news
 
 
-
+[7月10日科技资讯|任正非：鸿蒙不用于手机；IBM 340 亿美元红帽收购案完成；Firefox 68.0 发布](https://blog.csdn.net/weixin_39786569/article/details/95314522)
 
 [7月9日科技资讯|麒麟 810 实体芯片亮相；1325 个安卓应用私自搜集数据；Linux Kernel 5.2 发布](https://blog.csdn.net/weixin_39786569/article/details/95166783)
 
