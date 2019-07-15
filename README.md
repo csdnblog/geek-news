@@ -1,5 +1,11 @@
 # geek-news
 
+
+
+[7月15日科技资讯|联通辟谣“不支持华为 5G”；罗永浩称索尼手机不如锤子；Linux 5.2.1 发布](https://blog.csdn.net/weixin_39786569/article/details/95939381)
+
+[7月13日科技资讯|华为鸿蒙是物联网操作系统；字节跳动的飞聊被 App Store 下架；FFmpeg 作者编写 JS 引擎](https://blog.csdn.net/weixin_39786569/article/details/95745036)
+
 [7月12日科技资讯|小鹏员工承认备份特斯拉源代码；Apple Watch 现漏洞；Python 3.7.4 发布](https://blog.csdn.net/weixin_39786569/article/details/95596059)
 
 [7月11日科技资讯|华为紧急调试鸿蒙；首个 5G 全覆盖国家诞生；Flutter 1.7 正式发布](https://blog.csdn.net/weixin_39786569/article/details/95457288)
